@@ -1,2 +1,2 @@
 # ds-lab-2nd-year
-For the scriptws of ds lab of 2nd year of cse, miet
+For the scripts of data structure lab of 2nd year of cse, miet
